@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YTsfront/static/css/main.40cad8bd.css",
+    "main.js": "/YTsfront/static/js/main.4d247e39.js",
+    "index.html": "/YTsfront/index.html",
+    "main.40cad8bd.css.map": "/YTsfront/static/css/main.40cad8bd.css.map",
+    "main.4d247e39.js.map": "/YTsfront/static/js/main.4d247e39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40cad8bd.css",
+    "static/js/main.4d247e39.js"
+  ]
+}
