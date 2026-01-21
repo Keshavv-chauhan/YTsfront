@@ -1,0 +1,12 @@
+[build]
+  command = "npm run build"
+  publish = "build"
+
+[build.environment]
+  NODE_VERSION = "18"
+  REACT_APP_API_BASE_URL = "https://ytsuite-702749419835.asia-south1.run.app"
+
+[[redirects]]
+  from = "/api/*"
+  to = "https://ytsuite-702749419835.asia-south1.run.app/api/:splat"
+  status = 200
