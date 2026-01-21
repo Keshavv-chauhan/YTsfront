@@ -814,7 +814,8 @@ const YouTubeMediaSuite = () => {
                   </div>
                 </div>
               </div>
-
+<script async="async" data-cfasync="false" src="https://pl28531218.effectivegatecpm.com/7897cf513f08b031b5ac2ab55eabe64d/invoke.js"></script>
+<div id="container-7897cf513f08b031b5ac2ab55eabe64d"></div>
               <div>
                 <h3 className="font-semibold mb-3">Cloud Integration</h3>
                 <div className="grid grid-cols-2 gap-3">
